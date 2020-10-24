@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<!-- Parameters used by tests at run time -->
+	<TestRunParameters>
+		<Parameter name="postgresUser" value="postgres" />
+		<Parameter name="postgresPassword" value="qw12cv90" />
+		<Parameter name="postgresHost" value="localhost" />
+		<Parameter name="ConnectionStringTemplate" value="User ID={0};Password={1};Host={2};Port=5432;Database={3};" />
+	</TestRunParameters>
+</RunSettings>

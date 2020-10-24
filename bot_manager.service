@@ -1,0 +1,9 @@
+[Unit]
+Description=Bot Manager
+
+[Service]
+Type=simple
+ExecStart=/root/BotManager/BotManager
+
+[Install]
+WantedBy=multi-user.target
